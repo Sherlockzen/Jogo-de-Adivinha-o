@@ -1,2 +1,2 @@
-# Jogo-de-Adivinha-o
+# Jogo de Adivinhação
 Jogo de adivinhação criado em Rust
